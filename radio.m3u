@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1,温州交通广播 FM103.9
 http://lhttp.qingting.fm/live/1156/64k.mp3
+#EXTINF:-1,温州新闻综合广播 FM94.9
+http://qingting.fm
+#EXTINF:-1,温州交通广播 FM103.9
+http://qingting.fm
+#EXTINF:-1,温州经济生活广播 FM88.8
+http://qingting.fm
+#EXTINF:-1,温州音乐之声 FM100.3
+http://qingting.fm
+#EXTINF:-1,温州私家车广播 FM93.8
+http://qingting.fm
